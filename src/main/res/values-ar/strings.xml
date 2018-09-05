@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مطعمك</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8413338064677888/2057412897</string>
+    <string name="name">الاسم :</string>
+    <string name="phoneNum"> رقم الهاتف :</string>
+    <string name="address">العنوان : </string>
+    <string name="nameHint">الاسم</string>
+    <string name="phoneNumHint">رقم الهاتف</string>
+    <string name="addressHint">العنوان</string>
+    <string name="menu">وجباتنا</string>
+    <string name="submitOrder">اطلب</string>
+    <string name="totalPrice">الاجمالي =</string>
+    <string name="zero">0</string>
+    <string name="egp">ج.م</string>
+    <string name="Order">اطلب</string>
+    <string name="knowUs">اعرفنا</string>
+    <string name="Offers">عروضنا</string>
+    <string name="Monasabat">مناسباتك</string>
+    <string name="OrderSummary">ملخص الطلب</string>
+    <string name="OrderSummaryOrder">طلبي :</string>
+    <string name="Price">السعر : </string>
+    <string name="SubmitOrder">تاكيد الطلب </string>
+    <string name="meal">وجبه</string>
+    <string name="MyOrders">طلباتي</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">mAt3mAk</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8413338064677888/2057412897</string>
+    <string name="name">Name :</string>
+    <string name="phoneNum">Phone Number :</string>
+    <string name="address">Address :</string>
+    <string name="nameHint">Name</string>
+    <string name="phoneNumHint">Phone Number</string>
+    <string name="addressHint">Address</string>
+    <string name="menu">Menu</string>
+    <string name="submitOrder">Order</string>
+    <string name="totalPrice">Total Price =</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="egp">EGP</string>
+    <string name="Order">Order</string>
+    <string name="knowUs">Know Us</string>
+    <string name="Offers">Offers</string>
+    <string name="Monasabat">Occasion</string>
+    <string name="MyOrders">my Orders</string>
+    <string name="OrderSummary">Order Summary</string>
+    <string name="OrderSummaryOrder">My Order :</string>
+    <string name="Price">Price :</string>
+    <string name="SubmitOrder">Submit Order</string>
+    <string name="meal">Meal</string>
+</resources>
